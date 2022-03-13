@@ -1,0 +1,9 @@
+#
+127.0.0.1 localhost
+::1 localhost
+
+#127.0.0.1 freecodetube.test
+#127.0.0.1 studio.freecodetube.test
+
+127.0.0.1 jobsite.test
+#127.0.0.1 demo.test
